@@ -1,0 +1,22 @@
+{
+  "name": "on25-ijs-projeto-final",
+  "version": "1.0.0",
+  "description": "Projeto final da Reprograma",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrafribeiro/on25-IJS-projeto-final.git"
+  },
+  "author": "Alexandra Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrafribeiro/on25-IJS-projeto-final/issues"
+  },
+  "homepage": "https://github.com/alexandrafribeiro/on25-IJS-projeto-final#readme",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
